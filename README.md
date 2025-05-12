@@ -7,7 +7,7 @@ Perfectly integrated with the Storm Client, it aims to provide an intuitive expe
 
 ## 🚀 Features
 
-- Fast and lightweight
+- Fast
 - Animated and modern UI
 - Update checker for client versions
 
@@ -30,16 +30,14 @@ Perfectly integrated with the Storm Client, it aims to provide an intuitive expe
 
 ## 🧠 Usage
 
-- Press `Configs` to load or manage your configs.
+- Press `Configs` tab to load or manage your configs.
 - Use the `Scripting` tab to create or load `.lua` scripts.
-- Click the logo to open the Storm Client.
-- Settings and UI themes are customizable from the `Theme` tab.
 
 ---
 
 ## 📢 Note
 
-Storm Launcher is under active development. Some features might be experimental or in beta.
+Storm Launcher is under active development. Some features might be experimental or in beta and maybe be broken or not working.
 
 ---
 
