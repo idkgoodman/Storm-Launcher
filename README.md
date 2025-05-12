@@ -10,7 +10,7 @@ Perfectly integrated with the Storm Client, it aims to provide an intuitive expe
 - Fast and lightweight
 - Animated and modern UI
 - Update checker for client versions
-- 
+
 ---
 
 ## 📦 Installation
